@@ -1,7 +1,5 @@
 # Goldilocks-Adventure-Game
 
-# Goldilocks’ Adventure
-
 ## INFO2305 – Multimedia Technology
 ### Section 4
 
