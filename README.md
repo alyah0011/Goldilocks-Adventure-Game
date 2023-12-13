@@ -98,19 +98,25 @@ The anatomy of the character was drawn by referring to a tutorial from a youtube
 #### C. Ingredients/Tools & Instruction (Level 1)
 The tools and Ingredients are traced inside Procreate using the draft sketches provided by Amylia.
 
-![Opera Snapshot_2023-11-23_171023_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/19aee076-b51e-46bd-814b-6d69b85bf699)
+![image23](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/05373487-cb00-43b4-9627-eb5e30c39401)
+![image14](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/ad159153-ed79-416b-b116-22ce41c6588f)
 
 With these as reference / samples,  the instruction and the assets for ingredients and tools were developed as depicted below.
 
-![Opera Snapshot_2023-11-23_171047_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/67c5a940-1d09-4985-ba80-c3c9e4fbd80c)
+![image22](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/9b5bd2f8-c6e8-43c9-b482-25949a9fa49d)
+![image30](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/6ceabc98-b5f8-4935-8662-249229d0555d)
+
 
 
 #### D. Obstacles & Instructions (Level 2)
-![Opera Snapshot_2023-11-23_171108_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/e263850e-08fe-48cf-9c87-8ad98f13c45a)
+![image35](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/9be052e2-006f-4b70-9743-5470db3d77c5)
+
 
 The animals that served as obstacles in level 2 included a monkey, lion, fox, bear, and snake. Notability was the primary tool utilised to create these obstacles. The process involved searching for reference images to gather ideas. Based on these references, the animals were sketched using the pen option in Notability, allowing for a freehand approach. Subsequently, the animals were filled with colours using the highlighter option provided by Notability. Once the drawing and colouring were completed, the image was exported as a PNG file and transferred to Canva to remove the background, leaving only the animal itself. Finally, the background-removed animal image was imported into the library of Animate CC for further use.
 
-![Opera Snapshot_2023-11-23_171132_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/e85087a5-7680-4c7a-ad7b-ea541ca305bd)
+![image7](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/a7c19c43-23f5-4a34-8783-b473e4e57ed9)
+<img width="922" alt="image24" src="https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/ca664cbb-5b3c-4fac-8dd1-16289933284b">
+
 
 At the start of the game, an instructional overlay is presented to guide the players. To create this overlay, a hand-drawn sketch, as mentioned before, served as a reference. However, instead of using Notability, Adobe Illustrator was utilised for its versatile design tools. The sketch was recreated using shapes like rectangles and circles, along with text elements. Additionally, the previously sketched animal obstacles were imported into Adobe Illustrator to provide a visual reference for the players.
 
@@ -119,47 +125,54 @@ At the start of the game, an instructional overlay is presented to guide the pla
 
 **Hearts**: The hearts are inspired by OpenGameArt.org drawing of a pixel heart, one heart was drawn in Procreate and the other 2 were copied and pasted.
 
-![Opera Snapshot_2023-11-23_171222_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/e282ddc5-e9fd-438b-8d3b-598750cf9c4c)
+![image19](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/0d4e3e8c-5a88-4351-a624-cb4c00d6c8c3)
+![image3](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/6204f1bd-03ce-4488-965f-ef341f48c647)
+
 
 **Basket**: The basket held by goldilocks to collect the ingredients for porridge as well as to collect the tools was inspired by real life photos of a rattan basket as depicted below.
 
-![Opera Snapshot_2023-11-23_171251_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/d8e1c8f0-1e38-4f80-bbac-41f23fdf0955)
+![image31](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/2152efd7-51e1-4008-bf0a-91b7d03ed6a1)
+![image27](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/6cf5c619-efa9-471a-a2f9-6e6155fdabe8)
+
 
 **The credit scene and homepage were created inside of animate itself.**
 The background used in the credit scene is the same as in Level 2 screenplay. Brown overlay was added using Adobe Illustrator over the background to get the subtle look as a final result.
 
-![Opera Snapshot_2023-11-23_171310_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/a757c707-87d7-496a-87d4-ad3b3fccaf19)
+![image15](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/9083f3a7-aacf-4aab-a8cd-3efde9daee82)
+
 
 Then, in Adobe Animate, the text was added using a “i pixel u” font that we obtained from the Internet. Later on, the font was moved using a motion tween. <br>
 
 The background used in the homepage is the same as in Level 1 screenplay. We added the title, the start and credit button that will lead to the respective pages. 
 
-![Opera Snapshot_2023-11-23_171330_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/44ac5c93-bc89-4422-8f4b-905f1e4bc263)
+![image9](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/33fbfb65-e7c8-499c-8328-478f5b672631)
+
 
 **The game context for both levels were made using Adobe Illustrator. **
 The background for the game context Level 1 is the same as Level 1 screenplay. The asset which was created earlier by Alya was then pasted over the background. Then, the dialogue box which is generated using deathgenerator.com is then pasted on the background as well. 
 
-![Opera Snapshot_2023-11-23_171351_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/18303373-b801-4e9f-90cb-98ad91b1f3c6)
+![image33](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/82b59e70-9ee6-4f73-b16c-26e6cfc0dad0)
 
-![Opera Snapshot_2023-11-23_171417_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/aa91a6e6-0bd6-426b-89ab-98d3a0f3b814)
+![image36](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/447c4edb-fdd2-4161-89fd-e52f3e4693b6)
+
 
 Game context for Level 2 was created using Adobe Illustrator as well. The background was inspired by sequence pictures from Twinkl.
 
-![Opera Snapshot_2023-11-23_171442_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/280cde23-0f79-4522-a150-3a0cf3d240de)
+![image2](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/c9769a79-0a54-43dd-a9ed-1395fd7c63dc)
+
 
 Same like in the game context Level 1, the dialogue box is generated using deathgenerator.com
 
-![Opera Snapshot_2023-11-23_171500_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/1f6a640e-bbd3-46c6-9cf6-89024e862909)
-
+![image32](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/d7e3c827-05f3-4536-a8ea-86b7c43f0fea)
 
 ### 3.2. Audio
 
 #### F. Background Music
 ChatGPT were utilised to generate notes for the background music then it was played and recorded in GarageBand using Aurora Over Iceland tool at Slow Crescendo
 
-![Opera Snapshot_2023-11-23_171522_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/7538515e-e827-43fa-828c-8dad9e853b57)
+![image25](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/11ad14fa-0ff2-405b-8515-945cea95a8d9)
 
-![Opera Snapshot_2023-11-23_171542_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/c59efc1d-53d4-4efd-a2c3-c6e4962452a3)
+![image1](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/ad02813c-5c8c-4282-95f7-d7c0b775f837)
 
 The video was sped up using Capcut and the video is converted into a .wav file to use inside Animate.
 
@@ -173,7 +186,7 @@ To create the sound effect that plays when the character collides with an obstac
 ##### 2. Win Level Sound Effect
 The sound effect triggered upon successfully completing level 1 was generated using an online music sequencer website. We combined two different instruments, a concert harp and a vibraphone, and played the keys in an ascending manner to achieve the desired winning sound effect.
 
-![Opera Snapshot_2023-11-23_171601_docs google com](https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/db963d48-53cf-4f31-8523-ad77df652eb8)
+<img width="659" alt="image20" src="https://github.com/alyah0011/Goldilocks-Adventure-Game/assets/121216138/77808f6c-4d21-44bc-9648-6d2feaa7cff5">
 
 ##### 3. Lose Level Sound Effect
 To create the sound effect for losing the level, we employed an online music box sound generator. Since the winning sound effect was achieved by playing the keys in an ascending manner, the opposite approach was taken this time. The online music box sound generator served as the tool for generating the desired losing sound effect.
